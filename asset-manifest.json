@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kakaha/static/css/main.957d3515.chunk.css",
+    "main.js": "/kakaha/static/js/main.4eed4676.chunk.js",
+    "main.js.map": "/kakaha/static/js/main.4eed4676.chunk.js.map",
+    "runtime~main.js": "/kakaha/static/js/runtime~main.1c918e8f.js",
+    "runtime~main.js.map": "/kakaha/static/js/runtime~main.1c918e8f.js.map",
+    "static/css/2.b5769064.chunk.css": "/kakaha/static/css/2.b5769064.chunk.css",
+    "static/js/2.8ffd379c.chunk.js": "/kakaha/static/js/2.8ffd379c.chunk.js",
+    "static/js/2.8ffd379c.chunk.js.map": "/kakaha/static/js/2.8ffd379c.chunk.js.map",
+    "index.html": "/kakaha/index.html",
+    "precache-manifest.b2b8a8861659dc50c47ba46a5aa75311.js": "/kakaha/precache-manifest.b2b8a8861659dc50c47ba46a5aa75311.js",
+    "service-worker.js": "/kakaha/service-worker.js",
+    "static/css/2.b5769064.chunk.css.map": "/kakaha/static/css/2.b5769064.chunk.css.map",
+    "static/css/main.957d3515.chunk.css.map": "/kakaha/static/css/main.957d3515.chunk.css.map",
+    "static/media/icon.jpg": "/kakaha/static/media/icon.86a80ad2.jpg",
+    "static/media/image1.png": "/kakaha/static/media/image1.54d23c2c.png"
+  }
+}
